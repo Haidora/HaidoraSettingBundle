@@ -1,0 +1,11 @@
+
+
+target 'HaidoraSettingBundle', :exclusive => true do
+  pod "HaidoraSettingBundle", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "HaidoraSettingBundle", :path => "../"
+
+  
+end

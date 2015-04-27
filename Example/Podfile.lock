@@ -1,0 +1,14 @@
+PODS:
+  - HaidoraSettingBundle (0.1)
+
+DEPENDENCIES:
+  - HaidoraSettingBundle (from `../`)
+
+EXTERNAL SOURCES:
+  HaidoraSettingBundle:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HaidoraSettingBundle: 8a96c4f45a28869502f63e49e6e4b2b2726a9e63
+
+COCOAPODS: 0.35.0
